@@ -23,3 +23,7 @@
 .notarow img {
   width: 66.666667% !important;
 }
+
+hr {
+  display: none !important;
+}
