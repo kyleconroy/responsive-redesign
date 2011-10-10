@@ -1,0 +1,25 @@
+.oxymoron {
+  display: block !important;
+}
+
+#header, #content {
+  width: 100% !important;
+  max-width: 960px !important;
+  min-width: none !important;
+}
+
+#content {
+  height: auto !important;
+}
+
+.notarow {
+  display: block !important;
+}
+
+.notarow div {
+  display: block !important;
+}
+
+.notarow img {
+  width: 66.666667% !important;
+}

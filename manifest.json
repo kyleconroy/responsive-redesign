@@ -1,0 +1,14 @@
+{
+  "name": "Responsive Redesign",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": ["*://*.learncodethehardway.com/*"],
+      "css": ["learncodethehardway.css"]
+    },
+     {
+      "matches": ["*://*.reddit.com/*"],
+      "css": ["reddit.css"]
+    }
+  ]
+}
