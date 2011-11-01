@@ -6,7 +6,11 @@
       "matches": ["*://*.learncodethehardway.com/*"],
       "css": ["learncodethehardway.css"]
     },
-     {
+    {
+      "matches": ["*://*.learnyouahaskell.com/*"],
+      "css": ["learnyouahaskell.css"]
+    },
+    {
       "matches": ["*://*.reddit.com/*"],
       "css": ["reddit.css"]
     }

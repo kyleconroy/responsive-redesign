@@ -1,0 +1,8 @@
+.bgwrapper {
+  padding: 25px 10px 50px 10px !important;
+}
+
+#content {
+  width: 100% !important;
+  max-width: 800px !important;
+}
