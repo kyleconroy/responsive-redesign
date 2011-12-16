@@ -1,0 +1,10 @@
+#splash img {
+  max-width: 810px !important;
+  width: 100% !important;
+  max-height: 656px !important;
+  height: 100% !important;
+}
+
+body#splash div {
+  padding: 0px 10px !important;
+}

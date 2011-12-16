@@ -7,6 +7,10 @@
       "css": ["learncodethehardway.css"]
     },
     {
+      "matches": ["*://*.learnyousomeerlang.com/*"],
+      "css": ["learnyousomeerlang.css"]
+    },
+     {
       "matches": ["*://*.learnyouahaskell.com/*"],
       "css": ["learnyouahaskell.css"]
     },
